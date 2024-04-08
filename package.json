@@ -1,0 +1,17 @@
+{
+    "name": "com.desine-unity.collide-and-slide",
+    "version": "1.0.0",
+    "displayName": "Collide And Slide",
+    "description": "Use for character controllers",
+    "unity": "2019.1",
+    "dependencies": {},
+    "keywords": [
+        "CollideAndSlide",
+        "collide",
+        "slide"
+    ],
+    "author": {
+        "name": "Napolov Vlad",
+        "email": "napolov.v.d@gmail.com"
+    }
+}
